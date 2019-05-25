@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>bag-16</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web-page-demo" transform="translate(-1184.000000, -791.000000)" stroke="#FFFFFF" stroke-width="1.28304">
+            <g id="checkout-btn" transform="translate(1154.000000, 774.000000)">
+                <g id="bag-16" transform="translate(31.000000, 18.000000)">
+                    <path d="M0,3.33333333 L17,3.33333333" id="Shape"></path>
+                    <polygon id="Shape" stroke-linecap="square" points="17 20 0 20 0 3.33333333 3.26923077 0 13.7307692 0 17 3.33333333"></polygon>
+                    <path d="M13.0769231,7.33333333 C13.0769231,9.93333333 11.05,12 8.5,12 C5.95,12 3.92307692,9.93333333 3.92307692,7.33333333" id="Shape" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

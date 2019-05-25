@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>goal-64</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="homepage" transform="translate(-675.000000, -1651.000000)" stroke-width="2.2">
+            <g id="section-3" transform="translate(129.000000, 1426.000000)">
+                <g id="row" transform="translate(0.000000, 227.000000)">
+                    <g id="item" transform="translate(390.000000, 0.000000)">
+                        <g id="goal-64" transform="translate(158.000000, 0.000000)">
+                            <path d="M38.5804419,21.8626512 C39.0810465,23.5972791 39.3488372,25.4302791 39.3488372,27.3255814 C39.3488372,38.1913256 30.5401628,47 19.6744186,47 C8.80867442,47 0,38.1913256 0,27.3255814 C0,16.4598372 8.80867442,7.65116279 19.6744186,7.65116279 C21.571907,7.65116279 23.407093,7.92004651 25.142814,8.42065116" id="Shape" stroke-opacity="0.315925045" stroke="#072F5E"></path>
+                            <circle id="Oval" stroke-opacity="0.315925045" stroke="#072F5E" cx="19.6744186" cy="27.3255814" r="10.9302326"></circle>
+                            <path d="M19.6744186,27.3255814 L44.8139535,2.18604651" id="Shape" stroke="#0A9288"></path>
+                            <polygon id="Shape" stroke="#0A9288" points="40.4418605 6.55813953 38.255814 0 31.6976744 6.55813953 33.8837209 13.1162791 40.4418605 15.3023256 47 8.74418605"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

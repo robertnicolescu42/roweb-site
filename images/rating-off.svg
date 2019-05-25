@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>rating-off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.156476449">
+        <g id="web-page-demo" transform="translate(-807.000000, -576.000000)" fill="#072F5E">
+            <g id="products-added" transform="translate(131.000000, 323.000000)">
+                <g id="item" transform="translate(584.000000, 0.000000)">
+                    <g id="info" transform="translate(24.000000, 220.000000)">
+                        <g id="Rating" transform="translate(0.000000, 33.000000)">
+                            <path d="M80.40655,4.35 L76.3537209,4.365 L75.094449,0.48 C75.0365515,0.315 74.9207564,0 74.7181149,0 C74.5154735,0 74.3996783,0.315 74.3417808,0.48 L73.0969833,4.365 L69.0296798,4.35 C68.8559871,4.35 68.4507042,4.38 68.4507042,4.62 C68.4507042,4.8 68.6678201,4.98 68.7980896,5.07 L72.083776,7.47 L70.8245041,11.355 C70.7810809,11.475 70.7521322,11.595 70.7521322,11.715 C70.7521322,11.865 70.8245041,12 70.969248,12 C71.1429407,12 71.302159,11.895 71.4324285,11.79 L74.7181149,9.405 L78.0038014,11.79 C78.1340709,11.88 78.2932891,12 78.4669818,12 C78.6262001,12 78.6696233,11.85 78.6696233,11.7 C78.6696233,11.58 78.6551489,11.46 78.6117257,11.355 L77.3669282,7.47 L80.6526146,5.07 C80.7828842,4.98 81,4.8 81,4.62 C81,4.38 80.5802427,4.35 80.40655,4.35 Z" id="rating-off"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>check-small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web-page-demo" transform="translate(-774.000000, -633.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="products-added" transform="translate(131.000000, 323.000000)">
+                <g id="item" transform="translate(584.000000, 0.000000)">
+                    <g id="check-small" transform="translate(59.000000, 310.000000)">
+                        <path d="M5,10 C4.7,10 4.5,9.9 4.3,9.7 L0.3,5.7 C-0.1,5.3 -0.1,4.7 0.3,4.3 C0.7,3.9 1.3,3.9 1.7,4.3 L5,7.6 L12.3,0.3 C12.7,-0.1 13.3,-0.1 13.7,0.3 C14.1,0.7 14.1,1.3 13.7,1.7 L5.7,9.7 C5.5,9.9 5.3,10 5,10 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

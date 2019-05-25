@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>badge-oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web-page-demo" transform="translate(-1198.000000, -784.000000)" fill="#FA6B44">
+            <g id="checkout-btn" transform="translate(1154.000000, 774.000000)">
+                <g id="badge" transform="translate(44.000000, 10.000000)">
+                    <circle id="badge-oval" cx="8.55" cy="8.55" r="8.55"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
